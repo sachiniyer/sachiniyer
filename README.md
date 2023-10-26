@@ -2,7 +2,7 @@
 
 ## 🔗 Links
 
-### 🖥 [website](https://sachiniyer.com)
+### 💻 [website](https://sachiniyer.com)
 
 ### 📄 [resume](https://sachiniyer.com/resume)
 
