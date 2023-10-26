@@ -1,6 +1,4 @@
-# 👋 Hi
-
-## 🔗 Links
+# 👋 Hi - 🔗 Links
 
 ### 💻 [website](https://sachiniyer.com)
 
